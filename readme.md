@@ -14,5 +14,5 @@
 
 #### O(n!) Factorial - you are adding a loop for every element
 
-![BigO][BigO.png]
+![BigO](BigO.png)
 
