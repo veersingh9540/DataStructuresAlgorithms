@@ -16,3 +16,7 @@
 
 ![BigO](BigO.png)
 
+
+#### Big O notation based on different Algorithms
+
+![SortingAlgoBigO](SortingAlgoBigO.png)
